@@ -11,7 +11,6 @@ Linear algebra lectures for computer science students.
 * ***Linear Algebra and Its Applications***, Lay David C.
 * ***Linear Algebra Done Right (Undergraduate Texts in Mathematics)***, Sheldon Axler
 * ***Linear Algebra (Dover Books on Mathematics)***, Georgi E. Shilov
-* ***No bullshit guide to linear algebra***, Ivan Savov
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 

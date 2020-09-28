@@ -26,3 +26,7 @@ Linear algebra lectures for computer science students.
 * ***Matrix Methods*** by University of Minnesota
 * ***Fibonacci Numbers and the Golden Ratio*** by The Hong Kong University of Science and Technology
 * ***Introduction to Complex Analysis*** by Wesleyan University
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## Youtube-Playlists

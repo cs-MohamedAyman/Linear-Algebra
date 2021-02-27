@@ -1,4 +1,4 @@
-<img align="right" width="240" height="240" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/linear-algebra.jpg">
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/linear-algebra.jpg">
 
 # Linear-Algebra
 Linear algebra lectures for computer science students.
